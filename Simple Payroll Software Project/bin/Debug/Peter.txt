@@ -1,0 +1,11 @@
+PAYSLIP FOR MAR 2021
+====================
+Name of Staff: Peter
+Hours Worked: 160
+
+Basic Pay: NT$8,000.00
+Allowance: NT$0.00
+
+====================
+Total Pay: NT$8,000.00
+====================

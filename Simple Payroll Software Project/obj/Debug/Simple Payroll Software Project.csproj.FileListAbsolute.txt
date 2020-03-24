@@ -1,0 +1,7 @@
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\Simple Payroll Software Project.exe.config
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\Simple Payroll Software Project.exe
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\bin\Debug\Simple Payroll Software Project.pdb
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\Simple Payroll Software Project.csprojAssemblyReference.cache
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\Simple Payroll Software Project.csproj.CoreCompileInputs.cache
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\Simple Payroll Software Project.exe
+C:\Users\Onion\source\repos\Simple Payroll Software Project\Simple Payroll Software Project\obj\Debug\Simple Payroll Software Project.pdb

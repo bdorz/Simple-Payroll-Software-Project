@@ -1,0 +1,11 @@
+PAYSLIP FOR MAR 2021
+====================
+Name of Staff: Jerry
+Hours Worked: 5
+
+Basic Pay: NT$250.00
+Allowance: NT$0.00
+
+====================
+Total Pay: NT$250.00
+====================

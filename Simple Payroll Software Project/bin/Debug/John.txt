@@ -1,0 +1,11 @@
+PAYSLIP FOR MAR 2021
+====================
+Name of Staff: John
+Hours Worked: 20
+
+Basic Pay: NT$600.00
+Overtime: NT$0.00
+
+====================
+Total Pay: NT$600.00
+====================
